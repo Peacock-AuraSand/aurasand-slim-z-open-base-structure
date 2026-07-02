@@ -1,5 +1,27 @@
 # 雀音匠流沙 SLIM-Z 基础主体结构开源资料 / Peacock AuraSand SLIM-Z Open Base Structure
 
+## 请先阅读 / Read First
+
+建议按以下顺序阅读本项目文件：
+
+1. `README.md`：项目总说明 / Project Overview
+2. `LICENSE.md`：授权协议 / License Terms
+3. `COMMERCIAL_USE.md`：商业使用说明 / Commercial Use
+4. `TECHNICAL_NOTES.md`：技术参考说明 / Technical Notes
+5. `DISCLAIMER.md`：免责声明 / Disclaimer
+6. `TRADEMARK.md`：商标声明 / Trademark Notice
+7. `CHANGELOG.md`：版本记录 / Changelog
+
+Suggested reading order:
+
+1. `README.md`: Project overview
+2. `LICENSE.md`: License terms
+3. `COMMERCIAL_USE.md`: Commercial-use rules
+4. `TECHNICAL_NOTES.md`: Technical notes
+5. `DISCLAIMER.md`: Disclaimer
+6. `TRADEMARK.md`: Trademark notice
+7. `CHANGELOG.md`: Changelog
+
 ## 中文说明
 
 Peacock 为雀音匠英文品牌名，AuraSand 为“流沙”系列英文名。
